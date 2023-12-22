@@ -2,5 +2,6 @@ hey I am learning github
 this is new concept!!!
 i learned about master or main
 4. i learned about pull request
-5. i learned about similer project
+5. i learned about similer branches 
+
 
